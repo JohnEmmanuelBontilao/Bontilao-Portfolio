@@ -13,7 +13,7 @@ body{
     height: 100vh;
     background-image: url(background.png);
     background-size: cover;
-    background-position: ce;
+    background-position: center;
 
 }
 .container{
